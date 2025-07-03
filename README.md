@@ -40,10 +40,10 @@
 
 ---
 
-# ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+# ✍️ Interesting Dev Motto:
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Code.+Create.+Conquer.;Keep+learning,+keep+growing.;Building+solutions+one+line+at+a+time!&center=true&width=500&height=45)
 
 ---
 
 # 🔥 Contribution Graph:
-[![Kishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanjaiswal1515&theme=react-dark)](https://github.com/kishanjaiswal1515)
+[![Kishan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kishanjaiswal1515&theme=github-compact)](https://github.com/kishanjaiswal1515)
