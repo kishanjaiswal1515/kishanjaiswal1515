@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m a B.Tech Computer Science undergraduate passionate about coding, problem-solving, and building projects.
-
+🔭 I’m a B.Tech Computer Science undergraduate passionate about coding, problem-solving, and building projects
+🌟 Interested in open-source, software engineering, and creative projects
 👯 I’m looking to collaborate on Hackathons & Open Source  
 🌱 I’m currently learning **Full Stack Development & Cloud Technologies**  
-💬 Ask me about **Java, React, Node.js, MySQL, C++**  
+💬 Ask me about **Java, HTML, CSS, JS, React.js, Node.js, MySQL, C++**  
 ⚡ Fun fact: I love building web apps that solve real-world problems  
 
 ---
