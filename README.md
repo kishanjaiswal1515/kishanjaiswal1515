@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Open Source Projects  
+🔭 I’m a B.Tech Computer Science undergraduate passionate about coding, problem-solving, and building projects.
 👯 I’m looking to collaborate on Hackathons & Open Source  
 🌱 I’m currently learning **Full Stack Development & Cloud Technologies**  
 💬 Ask me about **Java, React, Node.js, MySQL, C++**  
